@@ -1,0 +1,108 @@
+MSBuild version 17.8.3+195e7f5a3 for .NET
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  
+  Restore operation started
+  EventBus -> /Users/sjkp/projects/eShop/src/EventBus/bin/Debug/net8.0/EventBus.dll
+  eShop.ServiceDefaults -> /Users/sjkp/projects/eShop/src/eShop.ServiceDefaults/bin/Debug/net8.0/eShop.ServiceDefaults.dll
+  Ordering.Domain -> /Users/sjkp/projects/eShop/src/Ordering.Domain/bin/Debug/net8.0/Ordering.Domain.dll
+  
+  4 libraries restored in 0,09 seconds
+  
+  EventBusRabbitMQ -> /Users/sjkp/projects/eShop/src/EventBusRabbitMQ/bin/Debug/net8.0/EventBusRabbitMQ.dll
+  IntegrationEventLogEF -> /Users/sjkp/projects/eShop/src/IntegrationEventLogEF/bin/Debug/net8.0/IntegrationEventLogEF.dll
+  Ordering.Infrastructure -> /Users/sjkp/projects/eShop/src/Ordering.Infrastructure/bin/Debug/net8.0/Ordering.Infrastructure.dll
+  WebhookClient -> /Users/sjkp/projects/eShop/src/WebhookClient/bin/Debug/net8.0/WebhookClient.dll
+  WebAppComponents -> /Users/sjkp/projects/eShop/src/WebAppComponents/bin/Debug/net8.0/WebAppComponents.dll
+  Basket.API -> /Users/sjkp/projects/eShop/src/Basket.API/bin/Debug/net8.0/Basket.API.dll
+  Mobile.Bff.Shopping -> /Users/sjkp/projects/eShop/src/Mobile.Bff.Shopping/bin/Debug/net8.0/Mobile.Bff.Shopping.dll
+  Identity.API -> /Users/sjkp/projects/eShop/src/Identity.API/bin/Debug/net8.0/Identity.API.dll
+  OrderProcessor -> /Users/sjkp/projects/eShop/src/OrderProcessor/bin/Debug/net8.0/OrderProcessor.dll
+  PaymentProcessor -> /Users/sjkp/projects/eShop/src/PaymentProcessor/bin/Debug/net8.0/PaymentProcessor.dll
+  Catalog.API -> /Users/sjkp/projects/eShop/src/Catalog.API/bin/Debug/net8.0/Catalog.API.dll
+  Webhooks.API -> /Users/sjkp/projects/eShop/src/Webhooks.API/bin/Debug/net8.0/Webhooks.API.dll
+  Ordering.API -> /Users/sjkp/projects/eShop/src/Ordering.API/bin/Debug/net8.0/Ordering.API.dll
+  WebApp -> /Users/sjkp/projects/eShop/src/WebApp/bin/Debug/net8.0/WebApp.dll
+  Basket.UnitTests -> /Users/sjkp/projects/eShop/tests/Basket.UnitTests/bin/Debug/net8.0/Basket.UnitTests.dll
+  Catalog.FunctionalTests -> /Users/sjkp/projects/eShop/tests/Catalog.FunctionalTests/bin/Debug/net8.0/Catalog.FunctionalTests.dll
+  Ordering.UnitTests -> /Users/sjkp/projects/eShop/tests/Ordering.UnitTests/bin/Debug/net8.0/Ordering.UnitTests.dll
+  Ordering.FunctionalTests -> /Users/sjkp/projects/eShop/tests/Ordering.FunctionalTests/bin/Debug/net8.0/Ordering.FunctionalTests.dll
+  eShop.AppHost -> /Users/sjkp/projects/eShop/src/eShop.AppHost/bin/Debug/net8.0/eShop.AppHost.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:01.01
+MSBuild version 17.8.3+195e7f5a3 for .NET
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  
+  Restore operation started
+  
+  4 libraries restored in 0,02 seconds
+  
+  EventBus -> /Users/sjkp/projects/eShop/src/EventBus/bin/Debug/net8.0/EventBus.dll
+  Ordering.Domain -> /Users/sjkp/projects/eShop/src/Ordering.Domain/bin/Debug/net8.0/Ordering.Domain.dll
+  eShop.ServiceDefaults -> /Users/sjkp/projects/eShop/src/eShop.ServiceDefaults/bin/Debug/net8.0/eShop.ServiceDefaults.dll
+  WebAppComponents -> /Users/sjkp/projects/eShop/src/WebAppComponents/bin/Debug/net8.0/WebAppComponents.dll
+  IntegrationEventLogEF -> /Users/sjkp/projects/eShop/src/IntegrationEventLogEF/bin/Debug/net8.0/IntegrationEventLogEF.dll
+  EventBusRabbitMQ -> /Users/sjkp/projects/eShop/src/EventBusRabbitMQ/bin/Debug/net8.0/EventBusRabbitMQ.dll
+  Ordering.Infrastructure -> /Users/sjkp/projects/eShop/src/Ordering.Infrastructure/bin/Debug/net8.0/Ordering.Infrastructure.dll
+  Identity.API -> /Users/sjkp/projects/eShop/src/Identity.API/bin/Debug/net8.0/Identity.API.dll
+  Mobile.Bff.Shopping -> /Users/sjkp/projects/eShop/src/Mobile.Bff.Shopping/bin/Debug/net8.0/Mobile.Bff.Shopping.dll
+  WebhookClient -> /Users/sjkp/projects/eShop/src/WebhookClient/bin/Debug/net8.0/WebhookClient.dll
+  OrderProcessor -> /Users/sjkp/projects/eShop/src/OrderProcessor/bin/Debug/net8.0/OrderProcessor.dll
+  Ordering.API -> /Users/sjkp/projects/eShop/src/Ordering.API/bin/Debug/net8.0/Ordering.API.dll
+  PaymentProcessor -> /Users/sjkp/projects/eShop/src/PaymentProcessor/bin/Debug/net8.0/PaymentProcessor.dll
+  Catalog.API -> /Users/sjkp/projects/eShop/src/Catalog.API/bin/Debug/net8.0/Catalog.API.dll
+  Webhooks.API -> /Users/sjkp/projects/eShop/src/Webhooks.API/bin/Debug/net8.0/Webhooks.API.dll
+  Ordering.UnitTests -> /Users/sjkp/projects/eShop/tests/Ordering.UnitTests/bin/Debug/net8.0/Ordering.UnitTests.dll
+  Basket.API -> /Users/sjkp/projects/eShop/src/Basket.API/bin/Debug/net8.0/Basket.API.dll
+  Catalog.FunctionalTests -> /Users/sjkp/projects/eShop/tests/Catalog.FunctionalTests/bin/Debug/net8.0/Catalog.FunctionalTests.dll
+  Ordering.FunctionalTests -> /Users/sjkp/projects/eShop/tests/Ordering.FunctionalTests/bin/Debug/net8.0/Ordering.FunctionalTests.dll
+  WebApp -> /Users/sjkp/projects/eShop/src/WebApp/bin/Debug/net8.0/WebApp.dll
+  Basket.UnitTests -> /Users/sjkp/projects/eShop/tests/Basket.UnitTests/bin/Debug/net8.0/Basket.UnitTests.dll
+  eShop.AppHost -> /Users/sjkp/projects/eShop/src/eShop.AppHost/bin/Debug/net8.0/eShop.AppHost.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.04
+MSBuild version 17.8.3+195e7f5a3 for .NET
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  
+  Restore operation started
+  EventBus -> /Users/sjkp/projects/eShop/src/EventBus/bin/Debug/net8.0/EventBus.dll
+  
+  4 libraries restored in 0,04 seconds
+  
+  eShop.ServiceDefaults -> /Users/sjkp/projects/eShop/src/eShop.ServiceDefaults/bin/Debug/net8.0/eShop.ServiceDefaults.dll
+  Ordering.Domain -> /Users/sjkp/projects/eShop/src/Ordering.Domain/bin/Debug/net8.0/Ordering.Domain.dll
+  IntegrationEventLogEF -> /Users/sjkp/projects/eShop/src/IntegrationEventLogEF/bin/Debug/net8.0/IntegrationEventLogEF.dll
+  WebAppComponents -> /Users/sjkp/projects/eShop/src/WebAppComponents/bin/Debug/net8.0/WebAppComponents.dll
+  EventBusRabbitMQ -> /Users/sjkp/projects/eShop/src/EventBusRabbitMQ/bin/Debug/net8.0/EventBusRabbitMQ.dll
+  Ordering.Infrastructure -> /Users/sjkp/projects/eShop/src/Ordering.Infrastructure/bin/Debug/net8.0/Ordering.Infrastructure.dll
+  OrderProcessor -> /Users/sjkp/projects/eShop/src/OrderProcessor/bin/Debug/net8.0/OrderProcessor.dll
+  Identity.API -> /Users/sjkp/projects/eShop/src/Identity.API/bin/Debug/net8.0/Identity.API.dll
+  Ordering.API -> /Users/sjkp/projects/eShop/src/Ordering.API/bin/Debug/net8.0/Ordering.API.dll
+  Catalog.API -> /Users/sjkp/projects/eShop/src/Catalog.API/bin/Debug/net8.0/Catalog.API.dll
+  WebhookClient -> /Users/sjkp/projects/eShop/src/WebhookClient/bin/Debug/net8.0/WebhookClient.dll
+  Mobile.Bff.Shopping -> /Users/sjkp/projects/eShop/src/Mobile.Bff.Shopping/bin/Debug/net8.0/Mobile.Bff.Shopping.dll
+  Webhooks.API -> /Users/sjkp/projects/eShop/src/Webhooks.API/bin/Debug/net8.0/Webhooks.API.dll
+  Basket.API -> /Users/sjkp/projects/eShop/src/Basket.API/bin/Debug/net8.0/Basket.API.dll
+  PaymentProcessor -> /Users/sjkp/projects/eShop/src/PaymentProcessor/bin/Debug/net8.0/PaymentProcessor.dll
+  Ordering.FunctionalTests -> /Users/sjkp/projects/eShop/tests/Ordering.FunctionalTests/bin/Debug/net8.0/Ordering.FunctionalTests.dll
+  Ordering.UnitTests -> /Users/sjkp/projects/eShop/tests/Ordering.UnitTests/bin/Debug/net8.0/Ordering.UnitTests.dll
+  Basket.UnitTests -> /Users/sjkp/projects/eShop/tests/Basket.UnitTests/bin/Debug/net8.0/Basket.UnitTests.dll
+  Catalog.FunctionalTests -> /Users/sjkp/projects/eShop/tests/Catalog.FunctionalTests/bin/Debug/net8.0/Catalog.FunctionalTests.dll
+  WebApp -> /Users/sjkp/projects/eShop/src/WebApp/bin/Debug/net8.0/WebApp.dll
+  eShop.AppHost -> /Users/sjkp/projects/eShop/src/eShop.AppHost/bin/Debug/net8.0/eShop.AppHost.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.07
